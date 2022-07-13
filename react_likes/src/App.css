@@ -1,3 +1,11 @@
+main{
+  text-align: center;
+  margin: 10% auto;
+}
+
+p{
+  border:2px dotted #282c34;
+}
 .App {
   text-align: center;
 }
@@ -35,4 +43,8 @@
   to {
     transform: rotate(360deg);
   }
+}
+.btn{
+  display: flex;
+  justify-content: center;
 }
